@@ -1,0 +1,39 @@
+BUYER: 950 GINA JURJEVIC                                       Liberty Procurement Co. Inc.                                           11/13/2019
+SHIP TERMS: FOB Shanghai,CHN                                           PURCHASE ORDER                                              PO#:  EQ8N3PB
+                                                                                                                         REF MASTER PO#: EQ7H8TJ                                                                 * * * R E P R I N T * * *
+                                                                                                                             SHIP DATE: 12/10/19
+VENDOR
+------
+ 40904 BHF INTERNATIONAL LIMITED
+       C/O LIBERTY PROCUREMENT CO INC
+       650 LIBERTY AVE
+       UNION NJ 07083
+       PHONE : 9086880888
+       FAX : 9088552160
+SHIP TO                                                  BILL TO
+-------                                                  -------
+  601 601 IMPORTS/SOUTHWEST                                601 LIBERTY PROCURMENT CO. INC.
+      Bed Bath & Beyond #601                                   C/O BED BATH & BEYOND - DEPT CIP
+      13300 Carmenita Road                                     PO BOX 3118
+      Santa Fe Springs, CA 906700601                           UNION, NJ 07083
+      PHONE : 5622934400
+DPT  SKU/UPC   VENDOR PART#    DESCRIPTION                       RETAIL     COST        EXT COST     CTNS  CSPK  EXT QTY        CUBE  KILOGRAMS
+---  -------   ------------    -----------                       ------     ----        --------     ----  ----  -------        ----  ---------
+115   67457380 18864           UGG AVERY COMF SEAL GRAY T         69.99                                35     2       70
+     0008889188642
+115   67457397 18867           UGG AVERY COMF SEAL GRAY F/Q       89.99    26.610      45875.640      862     2     1724       .1720      24.80
+     0008889188673            HTSUS: 9404.80.8522
+115   68144234 57958           UGG AVERY CMF SNOW FQ              89.99    26.610      45875.640      862     2     1724       .1720      24.80
+     0008889579587            HTSUS: 9404.80.8522
+115   68144241 57959           UGG AVERY CMF SNOW K              119.99    34.380      25922.520      377     2      754       .2077      28.70
+     0008889579594            HTSUS: 9404.80.8522
+115   68144524 57990           UGG AVERY CMF SEAL GRAY K         119.99    34.380      25922.520      377     2      754       .2077      28.70
+     0008889579907            HTSUS: 9404.80.8522
+115   68144548 57957           UGG AVERY CMF SNOW T               69.99    34.380       2406.600       35     2       70       .2077      28.70
+     0008889579570
+                                         TOTALS:                                     146,002.920     2548           5096               65399.50
+                                                                                                                            460.4033
+Season Code:             Agent:                            Percentage:
+Ad Month:                                                Total Invoice Value:
+PAGE :  1                                              GREGORY  COOKE
+The Ref Master# is for Reference only.  All Commercial Documents and Carton Markings should reflect the PO#.
